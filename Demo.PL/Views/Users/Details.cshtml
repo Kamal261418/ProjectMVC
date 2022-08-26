@@ -1,0 +1,24 @@
+﻿@model ApplicationUser
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1> User Details</h1>
+<br />
+<br />
+<div>
+    
+    <partial name = "PartialViews/DetailsDeleteUserPartialView" />
+    <a asp-action = "Edit" class = "btn btn-primary" >Edit</a> |
+    <a asp-controller = "Employee" asp-action = "Index" class = "btn btn-light" >Back To List</a>
+
+</div>
+
+
+
+
+
+
+
+
+

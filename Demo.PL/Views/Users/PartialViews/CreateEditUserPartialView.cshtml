@@ -1,0 +1,17 @@
+﻿@model ApplicationUser
+
+<div class = "form-group">
+        <label class = "col-form-label" asp-for = "@Model.UserName"></label>
+        <input  class = " form-control" asp-for = "@Model.UserName"/>
+        <span asp-validation-for = "@Model.UserName" class = "text-danger"></span>
+    </div>
+
+   
+
+     <div class = "form-group">
+        <label class = "col-form-label" asp-for = "@Model.PhoneNumber"></label>
+        <input  class = " form-control" asp-for = "@Model.PhoneNumber"/>
+        <span asp-validation-for = "@Model.PhoneNumber" class = "text-danger"></span>
+    </div>
+
+    

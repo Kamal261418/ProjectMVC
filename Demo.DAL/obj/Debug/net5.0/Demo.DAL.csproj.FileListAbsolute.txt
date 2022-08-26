@@ -1,0 +1,24 @@
+D:\route\MVC\Day_2\AssAndPP\Demo.PL Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.deps.json
+D:\route\MVC\Day_2\AssAndPP\Demo.PL Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.dll
+D:\route\MVC\Day_2\AssAndPP\Demo.PL Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.pdb
+D:\route\MVC\Day_2\AssAndPP\Demo.PL Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.AssemblyReference.cache
+D:\route\MVC\Day_2\AssAndPP\Demo.PL Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\route\MVC\Day_2\AssAndPP\Demo.PL Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfoInputs.cache
+D:\route\MVC\Day_2\AssAndPP\Demo.PL Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfo.cs
+D:\route\MVC\Day_2\AssAndPP\Demo.PL Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.CoreCompileInputs.cache
+D:\route\MVC\Day_2\AssAndPP\Demo.PL Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.dll
+D:\route\MVC\Day_2\AssAndPP\Demo.PL Solution\Demo.DAL\obj\Debug\net5.0\refint\Demo.DAL.dll
+D:\route\MVC\Day_2\AssAndPP\Demo.PL Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.pdb
+D:\route\MVC\Day_2\AssAndPP\Demo.PL Solution\Demo.DAL\obj\Debug\net5.0\ref\Demo.DAL.dll
+E:\Projects-ASP.Net Core\Demo.PL Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.deps.json
+E:\Projects-ASP.Net Core\Demo.PL Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.dll
+E:\Projects-ASP.Net Core\Demo.PL Solution\Demo.DAL\bin\Debug\net5.0\Demo.DAL.pdb
+E:\Projects-ASP.Net Core\Demo.PL Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.AssemblyReference.cache
+E:\Projects-ASP.Net Core\Demo.PL Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects-ASP.Net Core\Demo.PL Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfoInputs.cache
+E:\Projects-ASP.Net Core\Demo.PL Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfo.cs
+E:\Projects-ASP.Net Core\Demo.PL Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.CoreCompileInputs.cache
+E:\Projects-ASP.Net Core\Demo.PL Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.dll
+E:\Projects-ASP.Net Core\Demo.PL Solution\Demo.DAL\obj\Debug\net5.0\refint\Demo.DAL.dll
+E:\Projects-ASP.Net Core\Demo.PL Solution\Demo.DAL\obj\Debug\net5.0\Demo.DAL.pdb
+E:\Projects-ASP.Net Core\Demo.PL Solution\Demo.DAL\obj\Debug\net5.0\ref\Demo.DAL.dll
